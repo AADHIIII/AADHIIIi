@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Aditya (ADI)
 
-<!--
-**AADHIIII/AADHIIIi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** with a strong focus on **software testing, application quality, and intelligent systems**.  
+I enjoy building, breaking, fixing, and scaling products — from clean APIs to AI-powered workflows.
 
-Here are some ideas to get you started:
+### 🧠 What I do
+- 💻 Software Development
+- 🤖 AI & LLM-based Application Development
+- 🧪 Quality Engineering & Test Strategy
+- ✅ Software Testing (Manual + Automation)
+- 📱 App Testing (Web, Mobile, API)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech I work with
+- **Languages:** Python, Java, JavaScript, TypeScript  
+- **Testing:** API testing, automation frameworks, test design, QA processes  
+- **Backend:** REST APIs, microservices  
+- **AI/ML:** LLMs, Agentic AI, MCP, prompt engineering  
+- **Tools & Platforms:** Git, CI/CD, cloud-native environments
+
+### 🚀 Current interests
+- Building **AI agents** that actually solve real problems  
+- Improving **software quality using AI-assisted testing**  
+- Designing **reliable, scalable APIs**  
+- Exploring the intersection of **QA + Generative AI**
+
+### 🤝 Open to
+- Collaborations on AI tools, testing frameworks, and developer utilities  
+- Open-source contributions  
+- Interesting engineering problems (especially early-stage or experimental)
+
+### 💬 Ask me about
+Software testing, automation strategies, API design, AI agents, LLM integration, or debugging tricky systems.
+
+### 📫 Let’s connect
+- GitHub: right here 🙂
+- www.linkedin.com/in/satyabhupathiraju
+
+⚡ *Fun fact:* I enjoy finding bugs almost as much as I enjoy fixing them.
