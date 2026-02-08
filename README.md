@@ -33,6 +33,5 @@ Software testing, automation strategies, API design, AI agents, LLM integration,
 
 ### 📫 Let’s connect
 - GitHub: right here 🙂
-- www.linkedin.com/in/satyabhupathiraju
 
 ⚡ *Fun fact:* I enjoy finding bugs almost as much as I enjoy fixing them.
