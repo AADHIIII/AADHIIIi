@@ -91,24 +91,6 @@ Software Engineer with 4 years of experience building secure, production-grade A
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## 💼 Professional Experience
-
-### 🏢 AI Engineer @ National Grid
-*Aug 2024 - Present | Boston, MA*
-
-- Built predictive maintenance models using XGBoost/LightGBM on AWS SageMaker with secure API endpoints
-- Developed document intelligence platform using GPT-4 with RAG architecture implementing prompt injection prevention
-- Implemented MLOps workflows with threat modeling, drift detection, and automated retraining
-- Created data validation pipelines for Oracle-to-Snowflake migrations using PySpark and Databricks
-
-### 🏢 Software Developer @ LightEdge Solutions
-*May 2023 - Jul 2024 | Denver, CO*
-
-- Developed fraud detection model using XGBoost processing 500K+ monthly transactions
-- Built NLP pipeline for invoice processing using Hugging Face Transformers
-- Designed ETL pipelines using Python, SQL, and Apache Airflow with role-based access controls
-- Established CI/CD pipelines for ML deployment using Docker with automated testing
-
 ## 🚀 Featured Projects
 
 ### 🤖 [Secure AI Meeting Assistant Agent](https://github.com/AADHIIII)
@@ -154,14 +136,13 @@ Amity University, India | 2017 - 2021
 
 ## 🏆 Certifications
 
-- ✅ AWS Certified Cloud Practitioner
 - ✅ AWS Generative AI with Amazon Q
 - ✅ Anthropic Academy: Claude Ecosystem in Action
 - ✅ Model Context Protocol (MCP): Hands-On with Agentic AI
 - ✅ AI Automation with Claude APIs: Agentic Computer Use
 - ✅ Cribl Certified User
 
-## 📈 What I'm Working On
+## What I'm Working On
 
 ```python
 current_focus = {
