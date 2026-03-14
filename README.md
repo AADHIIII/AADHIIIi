@@ -45,13 +45,6 @@ Evaluates multiple LLMs (GPT, Claude, Gemini, Llama, etc.) across different task
 
 ---
 
-### 🎭 Playwright Agents — Plan · Generate · Heal
-Demonstration of Playwright's AI-powered agentic test workflow: a **Planner** browses a live site and writes specs, a **Generator** reads the spec and produces TypeScript tests, a **Healer** runs failing tests and fixes selectors automatically. Tests cover SauceDemo, BestBuy.com, BestBuy Ads, and a REST API.
-
-`TypeScript` `Playwright` `MCP` `GitHub Copilot Agents` `AI Test Automation`
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -119,6 +112,7 @@ Demonstration of Playwright's AI-powered agentic test workflow: a **Planner** br
 
 ## Certifications
 
+- **Google AI Professional 2026
 - **Playwright 102** — LambdaTest
 - **AWS Educate – Emerging Talent** (2025)
 - **AWS Educate – Generative AI & AWS Q** (2024)
